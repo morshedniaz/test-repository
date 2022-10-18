@@ -104,4 +104,4 @@ exclude:
 highlighter: rouge
 
 # Theme for carpentries
-remote_theme: hsf-training/hsf-training-theme
+remote_theme: intersect-training/intersect-training-theme
